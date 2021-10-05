@@ -18,7 +18,7 @@
 <br>
 <div align="center">
 <h2>🚀 Skills 🚀</h2>
-<p><i>Platforms & languages that I'm confident of</i></p>
+<p><i>Platforms & Languages that I'm confident of</i></p>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-black?style=flat-square&logo=iOS&logoColor=white"/></a>&nbsp 
