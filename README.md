@@ -32,5 +32,5 @@
 <h2 align="center">📫 Contact Me 📫</h2>
 <p align="center">
   <a href="mailto:sch0991@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sch0991@gmail.com"/></a>&nbsp
-  <a href="https://www.instagram.com/chaehihi_seo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/doingdoing.diary/"/></a>&nbsp
+  <a href="https://www.instagram.com/doingdoing.diary/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/doingdoing.diary/"/></a>&nbsp
 </p>
