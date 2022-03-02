@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&customColorList=3&text=Chaehui%20SEO&fontAlignY=45&desc=iOS%20Developer&descAlignY=25&descAlign=60&fontColor=394A58&fontSize=50)
 <br>
-<h3 align="center"> Hi there👋<br>I'm Chaehui Seo from South Korea.<br></h3>
+<h3 align="center"> Hi there👋<br>I'm Chaehui Seo from Republic of Korea.<br></h3>
 <br>
 <br>
 <div align="center">
