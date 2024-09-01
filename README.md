@@ -10,7 +10,7 @@
 <div align="center">
 💻 iOS Programming<br>
 🔎 UX/UI design<br>
-🎸 Playing bass guitar<br>
+🧗‍♀️ Sports(Climbing, Futsal, Swimming)<br>
 ✈️ Traveling<br>
 </div>
 <br>
